@@ -27,4 +27,10 @@ elif num == 10:
     print(f"equal to 10:{num}")  
 else:
     print(f"greater than 10:{num}")    
-    
+
+# Q10
+num = int(input("Enter the number : "))    
+if num % 2 ==0:
+    print(f"{num} is even")
+else:
+    print(f"{num} is odd")
