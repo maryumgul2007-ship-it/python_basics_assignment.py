@@ -1,6 +1,5 @@
 # Python Basics Assignment
 
-## 📌 Description
 This repository contains my (Python Basics Assignment) which covers:
 - Variables and Data Types
 - Operators
@@ -25,4 +24,3 @@ This repository contains my (Python Basics Assignment) which covers:
 - Uses `if-else`  
 - Prints whether the number is (Positive) or (Negative)
 
-## 📂 File Structure
